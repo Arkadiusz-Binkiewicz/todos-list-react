@@ -1,0 +1,29 @@
+.section {
+    margin: 15px 0;
+    background: white;
+    box-shadow: 0 0 5px #8f8f8f
+}
+
+.section__header {
+    border-bottom: 2px solid #8f8f8f;
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+}
+
+@media (max-width: 767px) {
+    .section__header {
+        grid-template-columns: 1fr;
+    }
+}
+
+.section__title {
+    font-size: 20px;
+    margin: 20px;
+}
+
+.section__body {
+    padding: 20px;
+}
