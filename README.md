@@ -2,6 +2,8 @@
 
 This is my tool for creating a todo-list. Below is a demo of the project.
 
+![page image](https://github.com/Arkadiusz-Binkiewicz/todos-list-react/blob/gh-pages/images/todo-list.png?raw=true)
+
 ## Demo
 
 https://arkadiusz-binkiewicz.github.io/todos-list-react/
