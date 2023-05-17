@@ -22,6 +22,7 @@ https://arkadiusz-binkiewicz.github.io/todos-list-react/
 - Git
 - Grid
 - Flex
+- React
 
 
 # Getting Started with Create React App
