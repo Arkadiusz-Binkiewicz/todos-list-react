@@ -1,3 +1,27 @@
+# tasks-list
+
+This is my tool for creating a todo-list. Below is a demo of the project.
+
+## Demo
+
+https://arkadiusz-binkiewicz.github.io/todos-list-react/
+
+### Author
+
+[Arkadiusz Binkiewicz](https://github.com/Arkadiusz-Binkiewicz)
+
+![Arkadiusz Binkiewicz](https://github.com/Arkadiusz-Binkiewicz/tasks-list/blob/main/images/arkadiusz.jpg?raw=true)
+
+#### Used Technologies
+- HTML
+- CSS
+- JavaScript (ES6+)
+- BEM convention
+- Git
+- Grid
+- Flex
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
