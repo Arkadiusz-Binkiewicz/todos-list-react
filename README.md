@@ -2,7 +2,7 @@
 
 This is my tool for creating a todo-list. Below is a demo of the project.
 
-![page image](https://github.com/Arkadiusz-Binkiewicz/todos-list-react/blob/gh-pages/images/todo-list.png?raw=true)
+![page image](https://github.com/Arkadiusz-Binkiewicz/todos-list-react/blob/main/public/images/taskslist1.gif?raw=true)
 
 ## Demo
 
