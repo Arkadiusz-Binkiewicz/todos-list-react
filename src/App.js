@@ -4,11 +4,15 @@ import Buttons from "./Buttons";
 import Section from "./Section";
 import Header from "./Header";
 import Container from "./Container";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 function App() {
   const [hideDone, setHideDone] = useState(false);
   const [tasks, setTasks] = useState([]);
+
+  useEffect(() => {
+    localStorage.setItem("tasks", JSON.stringify(tasks));
+  }, [tasks]);
 
   const toggleHideDone = () => {
     setHideDone(hideDone => !hideDone);
