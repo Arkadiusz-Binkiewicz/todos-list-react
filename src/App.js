@@ -15,7 +15,7 @@ function App() {
     tasksFromLocalStorage
     ? JSON.parse(tasksFromLocalStorage)
     : []
-  )
+  );
   
   useEffect(() => {
     localStorage.setItem("tasks", JSON.stringify(tasks));
